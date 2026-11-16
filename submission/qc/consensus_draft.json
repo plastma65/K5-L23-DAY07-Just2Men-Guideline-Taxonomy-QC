@@ -1,0 +1,8686 @@
+{
+ "info": {
+  "description": "Đồng thuận NHÁP tự động - chưa phải nhãn cuối",
+  "guideline_taxonomy": "v1.0",
+  "flagged_images": [
+   "img_001.jpg",
+   "img_002.jpg",
+   "img_003.jpg",
+   "img_004.jpg",
+   "img_005.jpg",
+   "img_006.jpg",
+   "img_007.jpg",
+   "img_008.jpg",
+   "img_009.jpg",
+   "img_010.jpg",
+   "img_011.jpg",
+   "img_012.jpg",
+   "img_013.jpg",
+   "img_014.jpg",
+   "img_015.jpg",
+   "img_016.jpg",
+   "img_018.jpg",
+   "img_019.jpg",
+   "img_021.jpg",
+   "img_022.jpg",
+   "img_023.jpg",
+   "img_024.jpg",
+   "img_025.jpg",
+   "img_026.jpg",
+   "img_028.jpg",
+   "img_029.jpg",
+   "img_030.jpg",
+   "img_031.jpg",
+   "img_032.jpg",
+   "img_034.jpg",
+   "img_035.jpg",
+   "img_036.jpg",
+   "img_037.jpg",
+   "img_039.jpg",
+   "img_040.jpg"
+  ]
+ },
+ "licenses": [],
+ "categories": [
+  {
+   "id": 1,
+   "name": "car"
+  },
+  {
+   "id": 2,
+   "name": "truck"
+  },
+  {
+   "id": 3,
+   "name": "van"
+  },
+  {
+   "id": 4,
+   "name": "bus"
+  },
+  {
+   "id": 5,
+   "name": "motorcycle"
+  },
+  {
+   "id": 6,
+   "name": "bicycle"
+  },
+  {
+   "id": 7,
+   "name": "three_wheeler"
+  },
+  {
+   "id": 8,
+   "name": "person"
+  },
+  {
+   "id": 9,
+   "name": "ignore_region"
+  }
+ ],
+ "images": [
+  {
+   "id": 1,
+   "file_name": "img_001.jpg",
+   "width": 960,
+   "height": 640
+  },
+  {
+   "id": 2,
+   "file_name": "img_002.jpg",
+   "width": 960,
+   "height": 578
+  },
+  {
+   "id": 3,
+   "file_name": "img_003.jpg",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "id": 4,
+   "file_name": "img_004.jpg",
+   "width": 960,
+   "height": 640
+  },
+  {
+   "id": 5,
+   "file_name": "img_005.jpg",
+   "width": 960,
+   "height": 640
+  },
+  {
+   "id": 6,
+   "file_name": "img_006.jpg",
+   "width": 960,
+   "height": 540
+  },
+  {
+   "id": 7,
+   "file_name": "img_007.jpg",
+   "width": 960,
+   "height": 640
+  },
+  {
+   "id": 8,
+   "file_name": "img_008.jpg",
+   "width": 960,
+   "height": 640
+  },
+  {
+   "id": 9,
+   "file_name": "img_009.jpg",
+   "width": 960,
+   "height": 540
+  },
+  {
+   "id": 10,
+   "file_name": "img_010.jpg",
+   "width": 960,
+   "height": 641
+  },
+  {
+   "id": 11,
+   "file_name": "img_011.jpg",
+   "width": 960,
+   "height": 640
+  },
+  {
+   "id": 12,
+   "file_name": "img_012.jpg",
+   "width": 960,
+   "height": 640
+  },
+  {
+   "id": 13,
+   "file_name": "img_013.jpg",
+   "width": 960,
+   "height": 640
+  },
+  {
+   "id": 14,
+   "file_name": "img_014.jpg",
+   "width": 960,
+   "height": 712
+  },
+  {
+   "id": 15,
+   "file_name": "img_015.jpg",
+   "width": 960,
+   "height": 578
+  },
+  {
+   "id": 16,
+   "file_name": "img_016.jpg",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "id": 17,
+   "file_name": "img_017.jpg",
+   "width": 768,
+   "height": 1024
+  },
+  {
+   "id": 18,
+   "file_name": "img_018.jpg",
+   "width": 960,
+   "height": 854
+  },
+  {
+   "id": 19,
+   "file_name": "img_019.jpg",
+   "width": 960,
+   "height": 643
+  },
+  {
+   "id": 20,
+   "file_name": "img_020.jpg",
+   "width": 768,
+   "height": 1024
+  },
+  {
+   "id": 21,
+   "file_name": "img_021.jpg",
+   "width": 960,
+   "height": 643
+  },
+  {
+   "id": 22,
+   "file_name": "img_022.jpg",
+   "width": 960,
+   "height": 811
+  },
+  {
+   "id": 23,
+   "file_name": "img_023.jpg",
+   "width": 960,
+   "height": 540
+  },
+  {
+   "id": 24,
+   "file_name": "img_024.jpg",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "id": 25,
+   "file_name": "img_025.jpg",
+   "width": 960,
+   "height": 639
+  },
+  {
+   "id": 26,
+   "file_name": "img_026.jpg",
+   "width": 784,
+   "height": 1024
+  },
+  {
+   "id": 27,
+   "file_name": "img_027.jpg",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "id": 28,
+   "file_name": "img_028.jpg",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "id": 29,
+   "file_name": "img_029.jpg",
+   "width": 960,
+   "height": 414
+  },
+  {
+   "id": 30,
+   "file_name": "img_030.jpg",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "id": 31,
+   "file_name": "img_031.jpg",
+   "width": 960,
+   "height": 640
+  },
+  {
+   "id": 32,
+   "file_name": "img_032.jpg",
+   "width": 960,
+   "height": 600
+  },
+  {
+   "id": 33,
+   "file_name": "img_033.jpg",
+   "width": 960,
+   "height": 640
+  },
+  {
+   "id": 34,
+   "file_name": "img_034.jpg",
+   "width": 960,
+   "height": 540
+  },
+  {
+   "id": 35,
+   "file_name": "img_035.jpg",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "id": 36,
+   "file_name": "img_036.jpg",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "id": 37,
+   "file_name": "img_037.jpg",
+   "width": 960,
+   "height": 720
+  },
+  {
+   "id": 38,
+   "file_name": "img_038.jpg",
+   "width": 960,
+   "height": 503
+  },
+  {
+   "id": 39,
+   "file_name": "img_039.jpg",
+   "width": 960,
+   "height": 540
+  },
+  {
+   "id": 40,
+   "file_name": "img_040.jpg",
+   "width": 960,
+   "height": 640
+  }
+ ],
+ "annotations": [
+  {
+   "id": 1,
+   "image_id": 1,
+   "category_id": 2,
+   "bbox": [
+    333.8,
+    100.05,
+    626.2,
+    539.95
+   ],
+   "area": 338116.69,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 2,
+   "image_id": 1,
+   "category_id": 8,
+   "bbox": [
+    230.0,
+    200.0,
+    154.0,
+    440.0
+   ],
+   "area": 67760.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 3,
+   "image_id": 1,
+   "category_id": 8,
+   "bbox": [
+    220.0,
+    89.0,
+    103.0,
+    162.5
+   ],
+   "area": 16737.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 4,
+   "image_id": 1,
+   "category_id": 8,
+   "bbox": [
+    523.0,
+    113.45,
+    123.0,
+    194.55
+   ],
+   "area": 23929.65,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 5,
+   "image_id": 1,
+   "category_id": 8,
+   "bbox": [
+    393.0,
+    114.5,
+    133.95,
+    201.5
+   ],
+   "area": 26990.92,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 6,
+   "image_id": 1,
+   "category_id": 8,
+   "bbox": [
+    324.5,
+    130.0,
+    90.5,
+    170.0
+   ],
+   "area": 15385.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 7,
+   "image_id": 1,
+   "category_id": 8,
+   "bbox": [
+    91.0,
+    101.5,
+    120.5,
+    330.25
+   ],
+   "area": 39795.12,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 8,
+   "image_id": 1,
+   "category_id": 8,
+   "bbox": [
+    121.0,
+    113.0,
+    107.85,
+    317.7
+   ],
+   "area": 34263.94,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 9,
+   "image_id": 2,
+   "category_id": 2,
+   "bbox": [
+    135.0,
+    130.45,
+    767.45,
+    407.05
+   ],
+   "area": 312390.52,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 10,
+   "image_id": 2,
+   "category_id": 1,
+   "bbox": [
+    717.0,
+    273.0,
+    102.0,
+    117.0
+   ],
+   "area": 11934.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 11,
+   "image_id": 2,
+   "category_id": 1,
+   "bbox": [
+    483.0,
+    255.0,
+    112.0,
+    133.75
+   ],
+   "area": 14980.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 12,
+   "image_id": 2,
+   "category_id": 1,
+   "bbox": [
+    719.0,
+    149.35,
+    109.3,
+    99.15
+   ],
+   "area": 10837.1,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 13,
+   "image_id": 2,
+   "category_id": 1,
+   "bbox": [
+    480.1,
+    89.0,
+    152.85,
+    129.0
+   ],
+   "area": 19717.65,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 14,
+   "image_id": 2,
+   "category_id": 1,
+   "bbox": [
+    818.5,
+    172.5,
+    74.0,
+    91.0
+   ],
+   "area": 6734.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 15,
+   "image_id": 2,
+   "category_id": 1,
+   "bbox": [
+    537.2,
+    250.0,
+    166.8,
+    116.0
+   ],
+   "area": 19348.8,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 16,
+   "image_id": 2,
+   "category_id": 1,
+   "bbox": [
+    613.5,
+    121.5,
+    122.0,
+    100.0
+   ],
+   "area": 12200.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 17,
+   "image_id": 2,
+   "category_id": 1,
+   "bbox": [
+    152.5,
+    49.5,
+    359.0,
+    148.5
+   ],
+   "area": 53311.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 18,
+   "image_id": 2,
+   "category_id": 8,
+   "bbox": [
+    857.7,
+    314.0,
+    32.6,
+    112.0
+   ],
+   "area": 3651.2,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 19,
+   "image_id": 3,
+   "category_id": 8,
+   "bbox": [
+    235.5,
+    62.0,
+    128.5,
+    134.6
+   ],
+   "area": 17296.1,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 20,
+   "image_id": 3,
+   "category_id": 8,
+   "bbox": [
+    736.85,
+    0.0,
+    58.35,
+    45.0
+   ],
+   "area": 2625.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 21,
+   "image_id": 3,
+   "category_id": 8,
+   "bbox": [
+    98.85,
+    0.0,
+    213.15,
+    575.0
+   ],
+   "area": 122561.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 22,
+   "image_id": 3,
+   "category_id": 8,
+   "bbox": [
+    0.0,
+    163.0,
+    80.0,
+    84.5
+   ],
+   "area": 6760.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 23,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    843.5,
+    32.0,
+    39.5,
+    74.0
+   ],
+   "area": 2923.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 24,
+   "image_id": 3,
+   "category_id": 1,
+   "bbox": [
+    275.5,
+    37.5,
+    81.5,
+    49.5
+   ],
+   "area": 4034.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 25,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    806.5,
+    51.5,
+    42.5,
+    55.75
+   ],
+   "area": 2369.38,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 26,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    872.5,
+    36.45,
+    55.5,
+    73.35
+   ],
+   "area": 4070.92,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 27,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    918.9,
+    38.8,
+    41.1,
+    75.15
+   ],
+   "area": 3088.67,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 28,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    473.5,
+    173.5,
+    97.5,
+    170.15
+   ],
+   "area": 16589.62,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 29,
+   "image_id": 3,
+   "category_id": 8,
+   "bbox": [
+    467.5,
+    46.8,
+    89.0,
+    175.15
+   ],
+   "area": 15588.35,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 30,
+   "image_id": 3,
+   "category_id": 6,
+   "bbox": [
+    0.0,
+    229.0,
+    423.75,
+    368.0
+   ],
+   "area": 155940.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 31,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    247.7,
+    121.0,
+    168.8,
+    289.15
+   ],
+   "area": 48808.52,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 32,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    744.9,
+    36.5,
+    77.6,
+    136.7
+   ],
+   "area": 10607.92,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 33,
+   "image_id": 3,
+   "category_id": 8,
+   "bbox": [
+    683.5,
+    5.5,
+    105.5,
+    238.3
+   ],
+   "area": 25140.65,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 34,
+   "image_id": 3,
+   "category_id": 8,
+   "bbox": [
+    502.0,
+    0.0,
+    203.5,
+    379.55
+   ],
+   "area": 77238.43,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 35,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    91.5,
+    115.55,
+    75.0,
+    105.45
+   ],
+   "area": 7908.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 36,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    31.05,
+    114.1,
+    69.95,
+    137.0
+   ],
+   "area": 9583.15,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 37,
+   "image_id": 3,
+   "category_id": 8,
+   "bbox": [
+    35.0,
+    54.0,
+    73.1,
+    175.7
+   ],
+   "area": 12843.67,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 38,
+   "image_id": 3,
+   "category_id": 1,
+   "bbox": [
+    250.0,
+    41.0,
+    32.0,
+    38.0
+   ],
+   "area": 1216.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 39,
+   "image_id": 3,
+   "category_id": 8,
+   "bbox": [
+    447.0,
+    13.0,
+    39.0,
+    79.0
+   ],
+   "area": 3081.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 40,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    455.0,
+    45.0,
+    37.0,
+    51.0
+   ],
+   "area": 1887.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 41,
+   "image_id": 3,
+   "category_id": 5,
+   "bbox": [
+    778.0,
+    22.0,
+    32.0,
+    82.0
+   ],
+   "area": 2624.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 42,
+   "image_id": 3,
+   "category_id": 8,
+   "bbox": [
+    36.0,
+    55.0,
+    59.0,
+    85.0
+   ],
+   "area": 5015.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 43,
+   "image_id": 3,
+   "category_id": 9,
+   "bbox": [
+    790.5,
+    0.0,
+    169.5,
+    37.5
+   ],
+   "area": 6356.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 44,
+   "image_id": 4,
+   "category_id": 7,
+   "bbox": [
+    70.5,
+    62.5,
+    390.5,
+    528.5
+   ],
+   "area": 206379.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 45,
+   "image_id": 4,
+   "category_id": 7,
+   "bbox": [
+    437.2,
+    97.0,
+    417.95,
+    353.0
+   ],
+   "area": 147536.35,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 46,
+   "image_id": 4,
+   "category_id": 8,
+   "bbox": [
+    569.0,
+    150.25,
+    105.5,
+    199.75
+   ],
+   "area": 21073.62,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 47,
+   "image_id": 4,
+   "category_id": 8,
+   "bbox": [
+    178.1,
+    129.9,
+    184.5,
+    295.1
+   ],
+   "area": 54445.95,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 48,
+   "image_id": 5,
+   "category_id": 1,
+   "bbox": [
+    0.0,
+    135.5,
+    86.0,
+    148.0
+   ],
+   "area": 12728.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 49,
+   "image_id": 5,
+   "category_id": 8,
+   "bbox": [
+    619.0,
+    42.5,
+    97.0,
+    115.0
+   ],
+   "area": 11155.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 50,
+   "image_id": 5,
+   "category_id": 5,
+   "bbox": [
+    726.0,
+    319.0,
+    234.0,
+    321.0
+   ],
+   "area": 75114.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 51,
+   "image_id": 5,
+   "category_id": 5,
+   "bbox": [
+    0.0,
+    307.5,
+    210.0,
+    310.5
+   ],
+   "area": 65205.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 52,
+   "image_id": 5,
+   "category_id": 8,
+   "bbox": [
+    538.0,
+    147.5,
+    384.35,
+    492.5
+   ],
+   "area": 189292.38,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 53,
+   "image_id": 5,
+   "category_id": 3,
+   "bbox": [
+    69.0,
+    28.5,
+    891.0,
+    327.5
+   ],
+   "area": 291802.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 54,
+   "image_id": 5,
+   "category_id": 8,
+   "bbox": [
+    31.0,
+    223.0,
+    417.0,
+    417.0
+   ],
+   "area": 173889.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 55,
+   "image_id": 5,
+   "category_id": 8,
+   "bbox": [
+    435.0,
+    31.0,
+    219.0,
+    584.0
+   ],
+   "area": 127896.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 56,
+   "image_id": 5,
+   "category_id": 8,
+   "bbox": [
+    320.0,
+    116.5,
+    172.5,
+    178.5
+   ],
+   "area": 30791.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 57,
+   "image_id": 5,
+   "category_id": 8,
+   "bbox": [
+    443.0,
+    94.5,
+    75.0,
+    76.5
+   ],
+   "area": 5737.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "3",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 58,
+   "image_id": 5,
+   "category_id": 3,
+   "bbox": [
+    0.0,
+    74.0,
+    74.0,
+    91.0
+   ],
+   "area": 6734.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 59,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    730.5,
+    74.5,
+    186.0,
+    455.5
+   ],
+   "area": 84723.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 60,
+   "image_id": 6,
+   "category_id": 6,
+   "bbox": [
+    517.5,
+    232.5,
+    54.5,
+    108.5
+   ],
+   "area": 5913.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 61,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    570.0,
+    123.0,
+    151.0,
+    322.0
+   ],
+   "area": 48622.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 62,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    517.5,
+    139.0,
+    65.5,
+    157.0
+   ],
+   "area": 10283.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 63,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    920.5,
+    177.5,
+    39.5,
+    232.5
+   ],
+   "area": 9183.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 64,
+   "image_id": 6,
+   "category_id": 1,
+   "bbox": [
+    0.0,
+    124.0,
+    115.0,
+    223.0
+   ],
+   "area": 25645.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 65,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    171.0,
+    95.5,
+    111.5,
+    273.0
+   ],
+   "area": 30439.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 66,
+   "image_id": 6,
+   "category_id": 6,
+   "bbox": [
+    741.5,
+    274.45,
+    156.0,
+    265.55
+   ],
+   "area": 41425.8,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 67,
+   "image_id": 6,
+   "category_id": 6,
+   "bbox": [
+    694.0,
+    237.0,
+    84.0,
+    155.0
+   ],
+   "area": 13020.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 68,
+   "image_id": 6,
+   "category_id": 6,
+   "bbox": [
+    860.5,
+    232.0,
+    89.3,
+    165.5
+   ],
+   "area": 14779.15,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 69,
+   "image_id": 6,
+   "category_id": 5,
+   "bbox": [
+    90.5,
+    223.0,
+    193.0,
+    265.0
+   ],
+   "area": 51145.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 70,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    106.0,
+    92.0,
+    142.0,
+    253.0
+   ],
+   "area": 35926.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 71,
+   "image_id": 6,
+   "category_id": 5,
+   "bbox": [
+    319.0,
+    224.6,
+    147.0,
+    258.9
+   ],
+   "area": 38058.3,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 72,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    335.5,
+    92.5,
+    141.5,
+    304.5
+   ],
+   "area": 43086.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 73,
+   "image_id": 6,
+   "category_id": 5,
+   "bbox": [
+    587.0,
+    200.0,
+    156.0,
+    273.5
+   ],
+   "area": 42666.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 74,
+   "image_id": 6,
+   "category_id": 5,
+   "bbox": [
+    419.0,
+    212.0,
+    96.0,
+    84.0
+   ],
+   "area": 8064.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 75,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    491.0,
+    162.0,
+    30.0,
+    56.0
+   ],
+   "area": 1680.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 76,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    578.0,
+    143.0,
+    47.0,
+    97.0
+   ],
+   "area": 4559.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 77,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    678.0,
+    137.0,
+    52.0,
+    101.0
+   ],
+   "area": 5252.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 78,
+   "image_id": 6,
+   "category_id": 8,
+   "bbox": [
+    433.0,
+    142.0,
+    65.0,
+    93.0
+   ],
+   "area": 6045.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 79,
+   "image_id": 6,
+   "category_id": 4,
+   "bbox": [
+    93.2,
+    122.3,
+    164.8,
+    81.0
+   ],
+   "area": 13348.8,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 80,
+   "image_id": 7,
+   "category_id": 2,
+   "bbox": [
+    382.5,
+    129.0,
+    258.5,
+    281.65
+   ],
+   "area": 72806.52,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 81,
+   "image_id": 7,
+   "category_id": 2,
+   "bbox": [
+    657.0,
+    51.0,
+    303.0,
+    393.0
+   ],
+   "area": 119079.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 82,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    671.5,
+    200.0,
+    58.5,
+    76.0
+   ],
+   "area": 4446.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 83,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    310.0,
+    345.0,
+    148.0,
+    217.0
+   ],
+   "area": 32116.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 84,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    495.0,
+    248.0,
+    93.0,
+    89.5
+   ],
+   "area": 8323.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 85,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    0.0,
+    563.0,
+    164.0,
+    77.0
+   ],
+   "area": 12628.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 86,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    159.0,
+    228.0,
+    62.0,
+    71.0
+   ],
+   "area": 4402.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 87,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    682.0,
+    258.0,
+    42.0,
+    54.0
+   ],
+   "area": 2268.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 88,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    843.0,
+    225.0,
+    83.5,
+    62.5
+   ],
+   "area": 5218.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 89,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    930.0,
+    245.0,
+    30.0,
+    53.0
+   ],
+   "area": 1590.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 90,
+   "image_id": 8,
+   "category_id": 2,
+   "bbox": [
+    636.0,
+    160.5,
+    111.5,
+    106.5
+   ],
+   "area": 11874.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 91,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    608.0,
+    150.8,
+    246.5,
+    489.2
+   ],
+   "area": 120587.8,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 92,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    559.5,
+    275.0,
+    400.5,
+    365.0
+   ],
+   "area": 146182.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 93,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    196.5,
+    181.0,
+    119.5,
+    218.0
+   ],
+   "area": 26051.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 94,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    194.0,
+    198.0,
+    37.0,
+    59.0
+   ],
+   "area": 2183.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 95,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    373.0,
+    180.0,
+    46.0,
+    60.0
+   ],
+   "area": 2760.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 96,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    411.0,
+    191.5,
+    38.0,
+    62.0
+   ],
+   "area": 2356.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 97,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    454.5,
+    197.5,
+    42.5,
+    66.5
+   ],
+   "area": 2826.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 98,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    503.0,
+    190.0,
+    41.0,
+    57.5
+   ],
+   "area": 2357.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 99,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    543.5,
+    196.5,
+    35.5,
+    57.0
+   ],
+   "area": 2023.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 100,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    580.5,
+    203.0,
+    22.0,
+    52.5
+   ],
+   "area": 1155.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 101,
+   "image_id": 8,
+   "category_id": 8,
+   "bbox": [
+    926.0,
+    208.0,
+    30.5,
+    83.0
+   ],
+   "area": 2531.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 102,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    76.0,
+    296.5,
+    301.0,
+    343.5
+   ],
+   "area": 103393.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 103,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    390.7,
+    236.0,
+    163.7,
+    118.2
+   ],
+   "area": 19349.34,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 104,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    321.2,
+    264.1,
+    238.8,
+    184.1
+   ],
+   "area": 43963.08,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 105,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    304.0,
+    281.1,
+    230.7,
+    213.9
+   ],
+   "area": 49346.73,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 106,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    58.4,
+    224.0,
+    136.9,
+    106.0
+   ],
+   "area": 14511.4,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 107,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    0.0,
+    252.6,
+    121.25,
+    152.6
+   ],
+   "area": 18502.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 108,
+   "image_id": 8,
+   "category_id": 2,
+   "bbox": [
+    598.5,
+    173.5,
+    42.0,
+    61.85
+   ],
+   "area": 2597.7,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 109,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    386.0,
+    228.0,
+    84.0,
+    96.0
+   ],
+   "area": 8064.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 110,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    672.0,
+    230.0,
+    54.0,
+    70.0
+   ],
+   "area": 3780.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 111,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    452.0,
+    230.0,
+    93.0,
+    82.0
+   ],
+   "area": 7626.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 112,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    8.0,
+    190.0,
+    142.0,
+    135.0
+   ],
+   "area": 19170.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 113,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    205.0,
+    318.0,
+    240.0,
+    172.0
+   ],
+   "area": 41280.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 114,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    437.0,
+    330.0,
+    118.0,
+    162.0
+   ],
+   "area": 19116.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 115,
+   "image_id": 8,
+   "category_id": 5,
+   "bbox": [
+    376.0,
+    430.0,
+    82.0,
+    142.0
+   ],
+   "area": 11644.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 116,
+   "image_id": 9,
+   "category_id": 5,
+   "bbox": [
+    812.5,
+    469.0,
+    147.5,
+    68.5
+   ],
+   "area": 10103.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 117,
+   "image_id": 9,
+   "category_id": 5,
+   "bbox": [
+    864.0,
+    432.0,
+    41.5,
+    49.5
+   ],
+   "area": 2054.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 118,
+   "image_id": 9,
+   "category_id": 6,
+   "bbox": [
+    798.0,
+    426.0,
+    22.0,
+    42.0
+   ],
+   "area": 924.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 119,
+   "image_id": 9,
+   "category_id": 4,
+   "bbox": [
+    354.85,
+    369.15,
+    312.0,
+    123.35
+   ],
+   "area": 38485.2,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 120,
+   "image_id": 9,
+   "category_id": 5,
+   "bbox": [
+    908.5,
+    430.1,
+    50.5,
+    62.4
+   ],
+   "area": 3151.2,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 121,
+   "image_id": 9,
+   "category_id": 5,
+   "bbox": [
+    705.0,
+    432.0,
+    71.5,
+    46.5
+   ],
+   "area": 3324.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 122,
+   "image_id": 9,
+   "category_id": 5,
+   "bbox": [
+    773.5,
+    429.0,
+    21.0,
+    40.5
+   ],
+   "area": 850.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 123,
+   "image_id": 9,
+   "category_id": 8,
+   "bbox": [
+    213.0,
+    304.0,
+    18.0,
+    36.0
+   ],
+   "area": 648.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 124,
+   "image_id": 9,
+   "category_id": 8,
+   "bbox": [
+    307.5,
+    429.0,
+    21.5,
+    44.0
+   ],
+   "area": 946.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 125,
+   "image_id": 9,
+   "category_id": 5,
+   "bbox": [
+    153.0,
+    441.0,
+    39.5,
+    43.0
+   ],
+   "area": 1698.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 126,
+   "image_id": 9,
+   "category_id": 8,
+   "bbox": [
+    156.0,
+    420.0,
+    25.0,
+    51.0
+   ],
+   "area": 1275.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 127,
+   "image_id": 9,
+   "category_id": 8,
+   "bbox": [
+    716.0,
+    404.0,
+    15.0,
+    34.0
+   ],
+   "area": 510.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 128,
+   "image_id": 9,
+   "category_id": 8,
+   "bbox": [
+    909.0,
+    427.0,
+    41.0,
+    53.0
+   ],
+   "area": 2173.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 129,
+   "image_id": 10,
+   "category_id": 5,
+   "bbox": [
+    804.5,
+    188.0,
+    153.0,
+    278.0
+   ],
+   "area": 42534.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 130,
+   "image_id": 10,
+   "category_id": 8,
+   "bbox": [
+    561.0,
+    125.0,
+    260.5,
+    465.0
+   ],
+   "area": 121132.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 131,
+   "image_id": 10,
+   "category_id": 5,
+   "bbox": [
+    586.5,
+    236.5,
+    303.5,
+    384.5
+   ],
+   "area": 116695.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 132,
+   "image_id": 10,
+   "category_id": 8,
+   "bbox": [
+    136.0,
+    86.6,
+    237.25,
+    426.4
+   ],
+   "area": 101163.4,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 133,
+   "image_id": 10,
+   "category_id": 5,
+   "bbox": [
+    9.15,
+    160.5,
+    110.85,
+    199.5
+   ],
+   "area": 22114.57,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 134,
+   "image_id": 10,
+   "category_id": 6,
+   "bbox": [
+    432.5,
+    365.0,
+    82.5,
+    148.0
+   ],
+   "area": 12210.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "3",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 135,
+   "image_id": 10,
+   "category_id": 5,
+   "bbox": [
+    151.5,
+    304.0,
+    156.5,
+    234.0
+   ],
+   "area": 36621.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 136,
+   "image_id": 10,
+   "category_id": 8,
+   "bbox": [
+    120.0,
+    101.0,
+    241.0,
+    319.5
+   ],
+   "area": 76999.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 137,
+   "image_id": 10,
+   "category_id": 8,
+   "bbox": [
+    309.0,
+    112.0,
+    105.5,
+    401.0
+   ],
+   "area": 42305.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 138,
+   "image_id": 10,
+   "category_id": 6,
+   "bbox": [
+    378.0,
+    298.0,
+    247.0,
+    214.0
+   ],
+   "area": 52858.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 139,
+   "image_id": 11,
+   "category_id": 1,
+   "bbox": [
+    516.5,
+    324.0,
+    108.2,
+    86.0
+   ],
+   "area": 9305.2,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 140,
+   "image_id": 11,
+   "category_id": 5,
+   "bbox": [
+    278.85,
+    358.6,
+    332.15,
+    281.4
+   ],
+   "area": 93467.01,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 141,
+   "image_id": 11,
+   "category_id": 8,
+   "bbox": [
+    83.0,
+    337.75,
+    21.5,
+    54.25
+   ],
+   "area": 1166.38,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 142,
+   "image_id": 11,
+   "category_id": 8,
+   "bbox": [
+    37.95,
+    346.35,
+    19.5,
+    52.15
+   ],
+   "area": 1016.92,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 143,
+   "image_id": 11,
+   "category_id": 8,
+   "bbox": [
+    31.0,
+    352.0,
+    15.0,
+    50.0
+   ],
+   "area": 750.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 144,
+   "image_id": 11,
+   "category_id": 8,
+   "bbox": [
+    98.5,
+    353.0,
+    62.5,
+    119.0
+   ],
+   "area": 7437.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 145,
+   "image_id": 11,
+   "category_id": 8,
+   "bbox": [
+    48.0,
+    363.5,
+    55.5,
+    118.5
+   ],
+   "area": 6576.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 146,
+   "image_id": 11,
+   "category_id": 5,
+   "bbox": [
+    0.0,
+    467.5,
+    150.0,
+    172.5
+   ],
+   "area": 25875.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 147,
+   "image_id": 12,
+   "category_id": 1,
+   "bbox": [
+    297.0,
+    292.5,
+    24.5,
+    32.5
+   ],
+   "area": 796.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 148,
+   "image_id": 12,
+   "category_id": 2,
+   "bbox": [
+    321.0,
+    207.5,
+    155.0,
+    190.0
+   ],
+   "area": 29450.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 149,
+   "image_id": 12,
+   "category_id": 1,
+   "bbox": [
+    0.0,
+    287.0,
+    250.0,
+    172.0
+   ],
+   "area": 43000.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 150,
+   "image_id": 12,
+   "category_id": 2,
+   "bbox": [
+    290.5,
+    247.5,
+    669.5,
+    392.5
+   ],
+   "area": 262778.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 151,
+   "image_id": 13,
+   "category_id": 8,
+   "bbox": [
+    347.5,
+    421.5,
+    30.5,
+    79.5
+   ],
+   "area": 2424.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 152,
+   "image_id": 13,
+   "category_id": 5,
+   "bbox": [
+    255.5,
+    441.5,
+    51.0,
+    41.0
+   ],
+   "area": 2091.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 153,
+   "image_id": 13,
+   "category_id": 1,
+   "bbox": [
+    161.55,
+    421.0,
+    36.95,
+    29.0
+   ],
+   "area": 1071.55,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 154,
+   "image_id": 13,
+   "category_id": 8,
+   "bbox": [
+    379.5,
+    415.5,
+    36.0,
+    84.5
+   ],
+   "area": 3042.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 155,
+   "image_id": 14,
+   "category_id": 8,
+   "bbox": [
+    7.5,
+    179.0,
+    182.5,
+    228.5
+   ],
+   "area": 41701.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 156,
+   "image_id": 14,
+   "category_id": 8,
+   "bbox": [
+    869.0,
+    188.0,
+    91.0,
+    155.0
+   ],
+   "area": 14105.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 157,
+   "image_id": 14,
+   "category_id": 8,
+   "bbox": [
+    655.5,
+    182.0,
+    145.5,
+    498.0
+   ],
+   "area": 72459.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 158,
+   "image_id": 14,
+   "category_id": 8,
+   "bbox": [
+    467.0,
+    178.0,
+    151.0,
+    157.0
+   ],
+   "area": 23707.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 159,
+   "image_id": 14,
+   "category_id": 5,
+   "bbox": [
+    462.5,
+    329.0,
+    192.5,
+    173.5
+   ],
+   "area": 33398.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 160,
+   "image_id": 14,
+   "category_id": 8,
+   "bbox": [
+    262.5,
+    121.5,
+    225.5,
+    585.0
+   ],
+   "area": 131917.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 161,
+   "image_id": 14,
+   "category_id": 5,
+   "bbox": [
+    0.0,
+    300.0,
+    322.0,
+    150.0
+   ],
+   "area": 48300.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 162,
+   "image_id": 14,
+   "category_id": 8,
+   "bbox": [
+    462.0,
+    174.3,
+    180.3,
+    298.8
+   ],
+   "area": 53873.64,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 163,
+   "image_id": 14,
+   "category_id": 9,
+   "bbox": [
+    0.0,
+    422.5,
+    247.5,
+    289.5
+   ],
+   "area": 71651.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 164,
+   "image_id": 15,
+   "category_id": 1,
+   "bbox": [
+    0.0,
+    118.0,
+    54.0,
+    64.5
+   ],
+   "area": 3483.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 165,
+   "image_id": 15,
+   "category_id": 1,
+   "bbox": [
+    770.5,
+    61.0,
+    189.5,
+    383.5
+   ],
+   "area": 72673.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 166,
+   "image_id": 15,
+   "category_id": 1,
+   "bbox": [
+    58.0,
+    123.0,
+    163.0,
+    82.5
+   ],
+   "area": 13447.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 167,
+   "image_id": 15,
+   "category_id": 1,
+   "bbox": [
+    445.0,
+    120.0,
+    157.0,
+    84.5
+   ],
+   "area": 13266.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 168,
+   "image_id": 15,
+   "category_id": 1,
+   "bbox": [
+    230.5,
+    114.0,
+    154.3,
+    90.5
+   ],
+   "area": 13964.15,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 169,
+   "image_id": 15,
+   "category_id": 1,
+   "bbox": [
+    0.0,
+    175.0,
+    278.5,
+    370.65
+   ],
+   "area": 103226.02,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 170,
+   "image_id": 15,
+   "category_id": 1,
+   "bbox": [
+    725.0,
+    100.0,
+    105.0,
+    97.7
+   ],
+   "area": 10258.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 171,
+   "image_id": 16,
+   "category_id": 5,
+   "bbox": [
+    323.0,
+    409.0,
+    267.0,
+    162.0
+   ],
+   "area": 43254.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 172,
+   "image_id": 16,
+   "category_id": 7,
+   "bbox": [
+    0.0,
+    307.5,
+    198.0,
+    353.5
+   ],
+   "area": 69993.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 173,
+   "image_id": 16,
+   "category_id": 8,
+   "bbox": [
+    7.5,
+    373.0,
+    125.0,
+    122.0
+   ],
+   "area": 15250.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 174,
+   "image_id": 16,
+   "category_id": 2,
+   "bbox": [
+    0.0,
+    278.5,
+    327.0,
+    243.75
+   ],
+   "area": 79706.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 175,
+   "image_id": 16,
+   "category_id": 8,
+   "bbox": [
+    410.0,
+    322.5,
+    103.0,
+    224.0
+   ],
+   "area": 23072.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 176,
+   "image_id": 16,
+   "category_id": 3,
+   "bbox": [
+    540.5,
+    273.5,
+    419.5,
+    225.5
+   ],
+   "area": 94597.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 177,
+   "image_id": 16,
+   "category_id": 1,
+   "bbox": [
+    421.0,
+    306.0,
+    179.0,
+    99.5
+   ],
+   "area": 17810.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 178,
+   "image_id": 16,
+   "category_id": 7,
+   "bbox": [
+    654.5,
+    324.0,
+    305.5,
+    352.0
+   ],
+   "area": 107536.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 179,
+   "image_id": 16,
+   "category_id": 8,
+   "bbox": [
+    777.5,
+    444.0,
+    182.5,
+    276.0
+   ],
+   "area": 50370.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 180,
+   "image_id": 16,
+   "category_id": 8,
+   "bbox": [
+    853.3,
+    400.0,
+    71.7,
+    55.0
+   ],
+   "area": 3943.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 181,
+   "image_id": 16,
+   "category_id": 8,
+   "bbox": [
+    833.0,
+    398.0,
+    125.0,
+    112.0
+   ],
+   "area": 14000.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 182,
+   "image_id": 18,
+   "category_id": 1,
+   "bbox": [
+    0.0,
+    530.0,
+    115.5,
+    118.0
+   ],
+   "area": 13629.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 183,
+   "image_id": 18,
+   "category_id": 1,
+   "bbox": [
+    740.7,
+    543.0,
+    217.0,
+    106.5
+   ],
+   "area": 23110.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 184,
+   "image_id": 18,
+   "category_id": 1,
+   "bbox": [
+    167.5,
+    496.5,
+    204.0,
+    173.0
+   ],
+   "area": 35292.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 185,
+   "image_id": 18,
+   "category_id": 1,
+   "bbox": [
+    387.5,
+    543.5,
+    218.5,
+    120.0
+   ],
+   "area": 26220.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 186,
+   "image_id": 18,
+   "category_id": 1,
+   "bbox": [
+    570.5,
+    549.5,
+    268.5,
+    116.5
+   ],
+   "area": 31280.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 187,
+   "image_id": 19,
+   "category_id": 1,
+   "bbox": [
+    122.0,
+    206.5,
+    754.5,
+    417.0
+   ],
+   "area": 314626.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 188,
+   "image_id": 19,
+   "category_id": 8,
+   "bbox": [
+    543.0,
+    238.0,
+    51.0,
+    68.0
+   ],
+   "area": 3468.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 189,
+   "image_id": 19,
+   "category_id": 8,
+   "bbox": [
+    37.5,
+    104.0,
+    101.0,
+    109.5
+   ],
+   "area": 11059.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 190,
+   "image_id": 19,
+   "category_id": 8,
+   "bbox": [
+    104.0,
+    149.0,
+    55.0,
+    100.0
+   ],
+   "area": 5500.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 191,
+   "image_id": 19,
+   "category_id": 8,
+   "bbox": [
+    453.0,
+    198.0,
+    57.0,
+    87.0
+   ],
+   "area": 4959.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 192,
+   "image_id": 19,
+   "category_id": 8,
+   "bbox": [
+    928.0,
+    169.0,
+    32.0,
+    104.5
+   ],
+   "area": 3344.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 193,
+   "image_id": 19,
+   "category_id": 8,
+   "bbox": [
+    828.0,
+    398.0,
+    132.0,
+    242.0
+   ],
+   "area": 31944.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 194,
+   "image_id": 19,
+   "category_id": 8,
+   "bbox": [
+    430.0,
+    115.0,
+    50.0,
+    85.0
+   ],
+   "area": 4250.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 195,
+   "image_id": 19,
+   "category_id": 8,
+   "bbox": [
+    443.3,
+    160.0,
+    45.4,
+    90.0
+   ],
+   "area": 4086.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 196,
+   "image_id": 19,
+   "category_id": 9,
+   "bbox": [
+    490.0,
+    65.0,
+    437.5,
+    130.0
+   ],
+   "area": 56875.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 197,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    641.0,
+    291.0,
+    84.5,
+    117.0
+   ],
+   "area": 9886.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 198,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    697.5,
+    258.0,
+    64.0,
+    101.0
+   ],
+   "area": 6464.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 199,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    693.0,
+    345.5,
+    65.0,
+    79.0
+   ],
+   "area": 5135.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 200,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    800.5,
+    240.0,
+    53.0,
+    87.5
+   ],
+   "area": 4637.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 201,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    796.0,
+    299.0,
+    62.5,
+    66.5
+   ],
+   "area": 4156.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 202,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    846.0,
+    232.0,
+    52.0,
+    83.0
+   ],
+   "area": 4316.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 203,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    242.5,
+    328.0,
+    175.0,
+    218.0
+   ],
+   "area": 38150.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 204,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    160.0,
+    322.0,
+    76.0,
+    125.5
+   ],
+   "area": 9538.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 205,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    348.0,
+    272.0,
+    72.0,
+    120.0
+   ],
+   "area": 8640.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 206,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    336.0,
+    258.0,
+    52.0,
+    74.0
+   ],
+   "area": 3848.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 207,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    306.0,
+    250.0,
+    34.0,
+    65.0
+   ],
+   "area": 2210.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 208,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    257.5,
+    261.0,
+    69.0,
+    96.0
+   ],
+   "area": 6624.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 209,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    200.0,
+    266.5,
+    60.0,
+    99.5
+   ],
+   "area": 5970.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 210,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    178.0,
+    260.0,
+    32.0,
+    65.0
+   ],
+   "area": 2080.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 211,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    152.0,
+    256.0,
+    38.0,
+    89.0
+   ],
+   "area": 3382.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 212,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    76.0,
+    300.0,
+    88.0,
+    102.0
+   ],
+   "area": 8976.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 213,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    82.0,
+    250.0,
+    70.0,
+    70.0
+   ],
+   "area": 4900.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 214,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    35.0,
+    261.0,
+    85.0,
+    97.5
+   ],
+   "area": 8287.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 215,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    0.0,
+    348.85,
+    139.0,
+    111.15
+   ],
+   "area": 15449.85,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 216,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    0.0,
+    330.0,
+    68.0,
+    125.0
+   ],
+   "area": 8500.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 217,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    45.0,
+    485.0,
+    125.0,
+    143.0
+   ],
+   "area": 17875.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 218,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    115.0,
+    489.0,
+    322.5,
+    154.0
+   ],
+   "area": 49665.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 219,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    126.5,
+    438.0,
+    287.5,
+    205.0
+   ],
+   "area": 58937.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 220,
+   "image_id": 21,
+   "category_id": 4,
+   "bbox": [
+    830.0,
+    187.0,
+    95.0,
+    31.0
+   ],
+   "area": 2945.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 221,
+   "image_id": 21,
+   "category_id": 1,
+   "bbox": [
+    252.5,
+    238.0,
+    120.5,
+    61.0
+   ],
+   "area": 7350.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 222,
+   "image_id": 21,
+   "category_id": 1,
+   "bbox": [
+    0.0,
+    240.0,
+    176.0,
+    102.45
+   ],
+   "area": 18031.2,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 223,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    645.0,
+    380.0,
+    77.0,
+    105.0
+   ],
+   "area": 8085.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 224,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    540.0,
+    411.0,
+    197.5,
+    232.0
+   ],
+   "area": 45820.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 225,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    580.0,
+    302.0,
+    178.5,
+    314.0
+   ],
+   "area": 56049.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 226,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    567.0,
+    261.0,
+    54.0,
+    90.0
+   ],
+   "area": 4860.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 227,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    455.0,
+    405.0,
+    125.0,
+    120.0
+   ],
+   "area": 15000.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 228,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    506.0,
+    290.0,
+    62.0,
+    82.0
+   ],
+   "area": 5084.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 229,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    466.5,
+    302.5,
+    85.5,
+    100.5
+   ],
+   "area": 8592.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 230,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    441.0,
+    262.0,
+    35.0,
+    38.0
+   ],
+   "area": 1330.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 231,
+   "image_id": 21,
+   "category_id": 8,
+   "bbox": [
+    395.0,
+    271.0,
+    71.0,
+    98.0
+   ],
+   "area": 6958.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 232,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    240.0,
+    408.0,
+    225.0,
+    184.0
+   ],
+   "area": 41400.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 233,
+   "image_id": 21,
+   "category_id": 5,
+   "bbox": [
+    0.0,
+    438.0,
+    72.0,
+    107.0
+   ],
+   "area": 7704.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 234,
+   "image_id": 21,
+   "category_id": 9,
+   "bbox": [
+    272.5,
+    206.5,
+    537.5,
+    58.5
+   ],
+   "area": 31443.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 235,
+   "image_id": 22,
+   "category_id": 8,
+   "bbox": [
+    577.3,
+    465.5,
+    63.25,
+    60.35
+   ],
+   "area": 3817.14,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 236,
+   "image_id": 22,
+   "category_id": 5,
+   "bbox": [
+    484.5,
+    475.5,
+    205.5,
+    148.0
+   ],
+   "area": 30414.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 237,
+   "image_id": 23,
+   "category_id": 8,
+   "bbox": [
+    749.5,
+    164.0,
+    37.0,
+    63.0
+   ],
+   "area": 2331.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 238,
+   "image_id": 23,
+   "category_id": 5,
+   "bbox": [
+    509.0,
+    205.0,
+    41.5,
+    68.0
+   ],
+   "area": 2822.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 239,
+   "image_id": 23,
+   "category_id": 8,
+   "bbox": [
+    504.5,
+    158.0,
+    47.0,
+    90.65
+   ],
+   "area": 4260.55,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 240,
+   "image_id": 23,
+   "category_id": 8,
+   "bbox": [
+    60.15,
+    124.2,
+    40.2,
+    130.3
+   ],
+   "area": 5238.06,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 241,
+   "image_id": 23,
+   "category_id": 1,
+   "bbox": [
+    33.5,
+    153.5,
+    397.5,
+    252.65
+   ],
+   "area": 100428.38,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 242,
+   "image_id": 23,
+   "category_id": 8,
+   "bbox": [
+    622.5,
+    9.0,
+    131.0,
+    427.5
+   ],
+   "area": 56002.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 243,
+   "image_id": 23,
+   "category_id": 7,
+   "bbox": [
+    570.5,
+    185.0,
+    221.5,
+    346.0
+   ],
+   "area": 76639.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 244,
+   "image_id": 23,
+   "category_id": 5,
+   "bbox": [
+    900.0,
+    221.0,
+    60.0,
+    110.0
+   ],
+   "area": 6600.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 245,
+   "image_id": 23,
+   "category_id": 8,
+   "bbox": [
+    929.0,
+    200.0,
+    31.0,
+    120.0
+   ],
+   "area": 3720.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 246,
+   "image_id": 23,
+   "category_id": 1,
+   "bbox": [
+    790.0,
+    173.5,
+    34.5,
+    31.0
+   ],
+   "area": 1069.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 247,
+   "image_id": 23,
+   "category_id": 5,
+   "bbox": [
+    753.5,
+    205.0,
+    29.0,
+    45.0
+   ],
+   "area": 1305.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 248,
+   "image_id": 23,
+   "category_id": 8,
+   "bbox": [
+    895.0,
+    198.0,
+    65.0,
+    124.0
+   ],
+   "area": 8060.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 249,
+   "image_id": 23,
+   "category_id": 9,
+   "bbox": [
+    394.5,
+    176.0,
+    104.0,
+    49.0
+   ],
+   "area": 5096.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 250,
+   "image_id": 23,
+   "category_id": 9,
+   "bbox": [
+    811.0,
+    178.0,
+    71.5,
+    67.0
+   ],
+   "area": 4790.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 251,
+   "image_id": 24,
+   "category_id": 1,
+   "bbox": [
+    834.0,
+    213.5,
+    126.0,
+    117.5
+   ],
+   "area": 14805.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 252,
+   "image_id": 24,
+   "category_id": 1,
+   "bbox": [
+    0.0,
+    541.5,
+    186.0,
+    178.5
+   ],
+   "area": 33201.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 253,
+   "image_id": 24,
+   "category_id": 1,
+   "bbox": [
+    697.5,
+    220.5,
+    228.5,
+    179.0
+   ],
+   "area": 40901.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 254,
+   "image_id": 24,
+   "category_id": 1,
+   "bbox": [
+    171.5,
+    204.0,
+    141.5,
+    70.0
+   ],
+   "area": 9905.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 255,
+   "image_id": 24,
+   "category_id": 1,
+   "bbox": [
+    75.5,
+    234.5,
+    766.5,
+    466.0
+   ],
+   "area": 357189.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 256,
+   "image_id": 24,
+   "category_id": 1,
+   "bbox": [
+    0.0,
+    203.5,
+    229.0,
+    233.0
+   ],
+   "area": 53357.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 257,
+   "image_id": 25,
+   "category_id": 1,
+   "bbox": [
+    744.0,
+    344.0,
+    64.0,
+    63.0
+   ],
+   "area": 4032.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 258,
+   "image_id": 25,
+   "category_id": 8,
+   "bbox": [
+    451.0,
+    332.0,
+    35.0,
+    100.5
+   ],
+   "area": 3517.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 259,
+   "image_id": 25,
+   "category_id": 8,
+   "bbox": [
+    535.5,
+    342.5,
+    29.0,
+    71.5
+   ],
+   "area": 2073.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 260,
+   "image_id": 25,
+   "category_id": 8,
+   "bbox": [
+    489.0,
+    346.5,
+    18.5,
+    46.0
+   ],
+   "area": 851.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 261,
+   "image_id": 25,
+   "category_id": 8,
+   "bbox": [
+    34.0,
+    380.5,
+    55.0,
+    58.5
+   ],
+   "area": 3217.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 262,
+   "image_id": 25,
+   "category_id": 8,
+   "bbox": [
+    151.5,
+    368.0,
+    23.5,
+    29.0
+   ],
+   "area": 681.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 263,
+   "image_id": 25,
+   "category_id": 8,
+   "bbox": [
+    367.0,
+    364.0,
+    19.0,
+    29.5
+   ],
+   "area": 560.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 264,
+   "image_id": 25,
+   "category_id": 8,
+   "bbox": [
+    387.0,
+    364.0,
+    20.0,
+    36.5
+   ],
+   "area": 730.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 265,
+   "image_id": 25,
+   "category_id": 8,
+   "bbox": [
+    413.0,
+    358.5,
+    18.5,
+    36.0
+   ],
+   "area": 666.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 266,
+   "image_id": 25,
+   "category_id": 8,
+   "bbox": [
+    432.5,
+    362.0,
+    19.5,
+    32.0
+   ],
+   "area": 624.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 267,
+   "image_id": 25,
+   "category_id": 1,
+   "bbox": [
+    786.0,
+    350.0,
+    39.5,
+    38.0
+   ],
+   "area": 1501.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 268,
+   "image_id": 25,
+   "category_id": 1,
+   "bbox": [
+    664.5,
+    351.5,
+    35.5,
+    32.5
+   ],
+   "area": 1153.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 269,
+   "image_id": 25,
+   "category_id": 1,
+   "bbox": [
+    686.0,
+    356.5,
+    25.5,
+    35.0
+   ],
+   "area": 892.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 270,
+   "image_id": 25,
+   "category_id": 1,
+   "bbox": [
+    654.0,
+    355.0,
+    18.0,
+    21.0
+   ],
+   "area": 378.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 271,
+   "image_id": 25,
+   "category_id": 8,
+   "bbox": [
+    814.5,
+    350.5,
+    43.5,
+    69.5
+   ],
+   "area": 3023.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 272,
+   "image_id": 25,
+   "category_id": 5,
+   "bbox": [
+    805.0,
+    363.5,
+    131.0,
+    78.5
+   ],
+   "area": 10283.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 273,
+   "image_id": 25,
+   "category_id": 1,
+   "bbox": [
+    905.0,
+    339.5,
+    55.0,
+    79.5
+   ],
+   "area": 4372.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 274,
+   "image_id": 25,
+   "category_id": 1,
+   "bbox": [
+    848.0,
+    345.0,
+    74.0,
+    50.0
+   ],
+   "area": 3700.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 275,
+   "image_id": 25,
+   "category_id": 9,
+   "bbox": [
+    187.5,
+    358.0,
+    170.5,
+    43.0
+   ],
+   "area": 7331.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 276,
+   "image_id": 26,
+   "category_id": 8,
+   "bbox": [
+    359.0,
+    539.0,
+    243.0,
+    474.0
+   ],
+   "area": 115182.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 277,
+   "image_id": 26,
+   "category_id": 8,
+   "bbox": [
+    271.5,
+    536.5,
+    219.5,
+    476.5
+   ],
+   "area": 104591.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 278,
+   "image_id": 26,
+   "category_id": 5,
+   "bbox": [
+    232.5,
+    744.5,
+    475.6,
+    279.5
+   ],
+   "area": 132930.2,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 279,
+   "image_id": 28,
+   "category_id": 1,
+   "bbox": [
+    615.5,
+    333.0,
+    279.5,
+    94.5
+   ],
+   "area": 26412.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 280,
+   "image_id": 28,
+   "category_id": 2,
+   "bbox": [
+    25.5,
+    301.5,
+    904.5,
+    400.7
+   ],
+   "area": 362433.15,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 281,
+   "image_id": 29,
+   "category_id": 6,
+   "bbox": [
+    275.56,
+    217.22,
+    19.25,
+    22.61
+   ],
+   "area": 435.24,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 282,
+   "image_id": 29,
+   "category_id": 8,
+   "bbox": [
+    346.72,
+    187.22,
+    21.68,
+    30.84
+   ],
+   "area": 668.61,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 283,
+   "image_id": 29,
+   "category_id": 8,
+   "bbox": [
+    99.0,
+    198.0,
+    11.0,
+    27.0
+   ],
+   "area": 297.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 284,
+   "image_id": 29,
+   "category_id": 8,
+   "bbox": [
+    111.5,
+    183.0,
+    39.0,
+    96.0
+   ],
+   "area": 3744.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 285,
+   "image_id": 29,
+   "category_id": 6,
+   "bbox": [
+    113.0,
+    233.0,
+    28.0,
+    54.5
+   ],
+   "area": 1526.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 286,
+   "image_id": 29,
+   "category_id": 8,
+   "bbox": [
+    218.0,
+    182.5,
+    26.0,
+    71.55
+   ],
+   "area": 1860.3,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 287,
+   "image_id": 29,
+   "category_id": 6,
+   "bbox": [
+    213.86,
+    226.11,
+    26.79,
+    52.82
+   ],
+   "area": 1415.05,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 288,
+   "image_id": 29,
+   "category_id": 8,
+   "bbox": [
+    276.44,
+    191.0,
+    22.17,
+    47.47
+   ],
+   "area": 1052.41,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 289,
+   "image_id": 29,
+   "category_id": 8,
+   "bbox": [
+    411.5,
+    161.0,
+    83.0,
+    215.9
+   ],
+   "area": 17919.7,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 290,
+   "image_id": 29,
+   "category_id": 5,
+   "bbox": [
+    331.5,
+    220.25,
+    225.5,
+    153.75
+   ],
+   "area": 34670.62,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 291,
+   "image_id": 29,
+   "category_id": 8,
+   "bbox": [
+    618.0,
+    110.0,
+    123.5,
+    284.8
+   ],
+   "area": 35172.8,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 292,
+   "image_id": 29,
+   "category_id": 6,
+   "bbox": [
+    536.5,
+    233.0,
+    262.0,
+    158.0
+   ],
+   "area": 41396.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 293,
+   "image_id": 29,
+   "category_id": 8,
+   "bbox": [
+    182.5,
+    173.0,
+    44.0,
+    116.0
+   ],
+   "area": 5104.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 294,
+   "image_id": 30,
+   "category_id": 5,
+   "bbox": [
+    69.0,
+    371.65,
+    408.0,
+    348.35
+   ],
+   "area": 142126.8,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 295,
+   "image_id": 30,
+   "category_id": 8,
+   "bbox": [
+    703.0,
+    23.6,
+    76.0,
+    254.9
+   ],
+   "area": 19372.4,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 296,
+   "image_id": 30,
+   "category_id": 5,
+   "bbox": [
+    763.45,
+    348.5,
+    196.55,
+    371.5
+   ],
+   "area": 73018.32,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 297,
+   "image_id": 30,
+   "category_id": 5,
+   "bbox": [
+    428.9,
+    271.05,
+    447.6,
+    448.95
+   ],
+   "area": 200950.02,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 298,
+   "image_id": 30,
+   "category_id": 5,
+   "bbox": [
+    510.0,
+    268.0,
+    230.0,
+    260.0
+   ],
+   "area": 59800.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 299,
+   "image_id": 30,
+   "category_id": 5,
+   "bbox": [
+    0.0,
+    210.08,
+    339.38,
+    348.66
+   ],
+   "area": 118328.23,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 300,
+   "image_id": 30,
+   "category_id": 9,
+   "bbox": [
+    785.0,
+    72.5,
+    175.0,
+    265.0
+   ],
+   "area": 46375.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 301,
+   "image_id": 30,
+   "category_id": 9,
+   "bbox": [
+    0.0,
+    95.0,
+    607.5,
+    255.0
+   ],
+   "area": 154912.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 302,
+   "image_id": 31,
+   "category_id": 8,
+   "bbox": [
+    165.0,
+    372.0,
+    16.5,
+    55.0
+   ],
+   "area": 907.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 303,
+   "image_id": 31,
+   "category_id": 8,
+   "bbox": [
+    190.0,
+    362.1,
+    14.0,
+    61.4
+   ],
+   "area": 859.6,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 304,
+   "image_id": 31,
+   "category_id": 8,
+   "bbox": [
+    202.0,
+    368.0,
+    12.0,
+    53.0
+   ],
+   "area": 636.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 305,
+   "image_id": 31,
+   "category_id": 8,
+   "bbox": [
+    213.0,
+    370.0,
+    13.0,
+    48.0
+   ],
+   "area": 624.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 306,
+   "image_id": 31,
+   "category_id": 8,
+   "bbox": [
+    409.0,
+    372.0,
+    19.0,
+    36.0
+   ],
+   "area": 684.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 307,
+   "image_id": 31,
+   "category_id": 5,
+   "bbox": [
+    408.0,
+    392.0,
+    22.0,
+    28.0
+   ],
+   "area": 616.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 308,
+   "image_id": 31,
+   "category_id": 1,
+   "bbox": [
+    266.5,
+    366.0,
+    141.8,
+    104.0
+   ],
+   "area": 14747.2,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 309,
+   "image_id": 31,
+   "category_id": 1,
+   "bbox": [
+    429.5,
+    375.0,
+    77.0,
+    55.0
+   ],
+   "area": 4235.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 310,
+   "image_id": 31,
+   "category_id": 1,
+   "bbox": [
+    493.0,
+    366.5,
+    47.5,
+    44.5
+   ],
+   "area": 2113.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 311,
+   "image_id": 31,
+   "category_id": 1,
+   "bbox": [
+    521.5,
+    375.0,
+    91.65,
+    72.5
+   ],
+   "area": 6644.62,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 312,
+   "image_id": 31,
+   "category_id": 4,
+   "bbox": [
+    571.5,
+    316.5,
+    112.5,
+    113.0
+   ],
+   "area": 12712.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 313,
+   "image_id": 31,
+   "category_id": 8,
+   "bbox": [
+    750.0,
+    361.0,
+    34.5,
+    124.0
+   ],
+   "area": 4278.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 314,
+   "image_id": 31,
+   "category_id": 8,
+   "bbox": [
+    62.5,
+    372.0,
+    42.5,
+    69.5
+   ],
+   "area": 2953.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 315,
+   "image_id": 31,
+   "category_id": 5,
+   "bbox": [
+    63.5,
+    410.5,
+    42.5,
+    48.5
+   ],
+   "area": 2061.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 316,
+   "image_id": 31,
+   "category_id": 8,
+   "bbox": [
+    238.43,
+    374.87,
+    20.5,
+    47.33
+   ],
+   "area": 970.26,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 317,
+   "image_id": 31,
+   "category_id": 5,
+   "bbox": [
+    234.0,
+    395.5,
+    26.0,
+    36.5
+   ],
+   "area": 949.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 318,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    115.0,
+    259.0,
+    25.0,
+    92.0
+   ],
+   "area": 2300.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 319,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    140.0,
+    265.0,
+    27.0,
+    89.0
+   ],
+   "area": 2403.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 320,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    155.0,
+    264.0,
+    17.0,
+    82.0
+   ],
+   "area": 1394.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 321,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    174.5,
+    260.0,
+    24.0,
+    94.0
+   ],
+   "area": 2256.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 322,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    204.5,
+    269.5,
+    29.0,
+    84.0
+   ],
+   "area": 2436.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 323,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    252.0,
+    264.5,
+    27.0,
+    93.0
+   ],
+   "area": 2511.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 324,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    272.0,
+    259.0,
+    21.0,
+    91.0
+   ],
+   "area": 1911.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 325,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    285.0,
+    262.0,
+    28.0,
+    93.0
+   ],
+   "area": 2604.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 326,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    311.0,
+    265.0,
+    31.0,
+    93.5
+   ],
+   "area": 2898.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 327,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    337.0,
+    268.0,
+    23.0,
+    87.0
+   ],
+   "area": 2001.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 328,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    354.0,
+    266.0,
+    25.5,
+    91.0
+   ],
+   "area": 2320.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 329,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    381.0,
+    273.0,
+    21.0,
+    87.0
+   ],
+   "area": 1827.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 330,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    400.5,
+    268.0,
+    27.5,
+    93.0
+   ],
+   "area": 2557.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 331,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    440.5,
+    263.0,
+    32.5,
+    98.5
+   ],
+   "area": 3201.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 332,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    473.0,
+    266.0,
+    25.5,
+    94.5
+   ],
+   "area": 2409.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 333,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    500.0,
+    271.0,
+    22.0,
+    91.0
+   ],
+   "area": 2002.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 334,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    522.0,
+    260.0,
+    24.0,
+    101.0
+   ],
+   "area": 2424.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 335,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    539.5,
+    273.5,
+    21.5,
+    89.5
+   ],
+   "area": 1924.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 336,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    560.5,
+    261.0,
+    20.0,
+    99.0
+   ],
+   "area": 1980.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 337,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    565.0,
+    270.0,
+    33.0,
+    96.0
+   ],
+   "area": 3168.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 338,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    588.5,
+    267.5,
+    27.5,
+    96.5
+   ],
+   "area": 2653.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 339,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    611.0,
+    275.0,
+    21.0,
+    85.0
+   ],
+   "area": 1785.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 340,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    627.5,
+    276.5,
+    31.0,
+    88.5
+   ],
+   "area": 2743.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 341,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    661.0,
+    275.0,
+    28.5,
+    90.5
+   ],
+   "area": 2579.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 342,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    781.0,
+    272.0,
+    37.5,
+    96.5
+   ],
+   "area": 3618.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 343,
+   "image_id": 32,
+   "category_id": 8,
+   "bbox": [
+    832.5,
+    279.5,
+    31.0,
+    89.0
+   ],
+   "area": 2759.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 344,
+   "image_id": 32,
+   "category_id": 1,
+   "bbox": [
+    922.0,
+    275.0,
+    38.0,
+    75.0
+   ],
+   "area": 2850.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 345,
+   "image_id": 32,
+   "category_id": 1,
+   "bbox": [
+    851.0,
+    277.0,
+    42.0,
+    58.0
+   ],
+   "area": 2436.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 346,
+   "image_id": 32,
+   "category_id": 1,
+   "bbox": [
+    357.88,
+    268.37,
+    87.82,
+    72.15
+   ],
+   "area": 6336.21,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 347,
+   "image_id": 32,
+   "category_id": 1,
+   "bbox": [
+    691.5,
+    268.0,
+    64.5,
+    81.0
+   ],
+   "area": 5224.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 348,
+   "image_id": 32,
+   "category_id": 1,
+   "bbox": [
+    0.0,
+    312.0,
+    152.5,
+    152.45
+   ],
+   "area": 23248.62,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 349,
+   "image_id": 34,
+   "category_id": 5,
+   "bbox": [
+    646.5,
+    267.0,
+    31.0,
+    49.5
+   ],
+   "area": 1534.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 350,
+   "image_id": 34,
+   "category_id": 5,
+   "bbox": [
+    777.5,
+    270.0,
+    25.5,
+    46.5
+   ],
+   "area": 1185.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 351,
+   "image_id": 34,
+   "category_id": 5,
+   "bbox": [
+    249.0,
+    251.0,
+    33.5,
+    38.0
+   ],
+   "area": 1273.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 352,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    289.0,
+    234.0,
+    15.5,
+    30.0
+   ],
+   "area": 465.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 353,
+   "image_id": 34,
+   "category_id": 5,
+   "bbox": [
+    283.5,
+    248.0,
+    26.5,
+    36.5
+   ],
+   "area": 967.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 354,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    645.5,
+    229.0,
+    33.5,
+    60.0
+   ],
+   "area": 2010.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 355,
+   "image_id": 34,
+   "category_id": 6,
+   "bbox": [
+    575.5,
+    254.5,
+    61.0,
+    49.0
+   ],
+   "area": 2989.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 356,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    596.0,
+    229.0,
+    28.5,
+    61.5
+   ],
+   "area": 1752.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 357,
+   "image_id": 34,
+   "category_id": 1,
+   "bbox": [
+    357.5,
+    228.0,
+    231.5,
+    82.5
+   ],
+   "area": 19098.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 358,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    360.0,
+    161.5,
+    145.0,
+    276.5
+   ],
+   "area": 40092.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 359,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    774.0,
+    229.5,
+    31.0,
+    64.5
+   ],
+   "area": 1999.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 360,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    830.0,
+    221.0,
+    39.0,
+    71.0
+   ],
+   "area": 2769.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 361,
+   "image_id": 34,
+   "category_id": 5,
+   "bbox": [
+    828.0,
+    276.0,
+    40.5,
+    62.0
+   ],
+   "area": 2511.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 362,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    862.5,
+    158.5,
+    97.5,
+    303.5
+   ],
+   "area": 29591.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 363,
+   "image_id": 34,
+   "category_id": 5,
+   "bbox": [
+    895.0,
+    350.0,
+    65.0,
+    188.0
+   ],
+   "area": 12220.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 364,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    621.0,
+    236.0,
+    20.0,
+    39.0
+   ],
+   "area": 780.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 365,
+   "image_id": 34,
+   "category_id": 5,
+   "bbox": [
+    624.0,
+    262.0,
+    16.0,
+    23.0
+   ],
+   "area": 368.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 366,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    66.0,
+    228.0,
+    26.0,
+    37.0
+   ],
+   "area": 962.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 367,
+   "image_id": 34,
+   "category_id": 5,
+   "bbox": [
+    51.0,
+    253.5,
+    46.0,
+    37.0
+   ],
+   "area": 1702.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 368,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    158.0,
+    234.0,
+    18.0,
+    28.0
+   ],
+   "area": 504.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 369,
+   "image_id": 34,
+   "category_id": 6,
+   "bbox": [
+    149.0,
+    250.0,
+    23.0,
+    37.0
+   ],
+   "area": 851.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 370,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    170.0,
+    232.0,
+    20.0,
+    40.0
+   ],
+   "area": 800.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 371,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    185.0,
+    232.0,
+    12.0,
+    30.0
+   ],
+   "area": 360.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 372,
+   "image_id": 34,
+   "category_id": 5,
+   "bbox": [
+    162.0,
+    256.5,
+    37.0,
+    33.5
+   ],
+   "area": 1239.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 373,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    255.5,
+    234.5,
+    17.5,
+    30.5
+   ],
+   "area": 533.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 374,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    267.0,
+    233.0,
+    15.0,
+    35.0
+   ],
+   "area": 525.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 375,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    58.0,
+    226.0,
+    22.0,
+    44.0
+   ],
+   "area": 968.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 376,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    164.0,
+    229.0,
+    16.0,
+    37.0
+   ],
+   "area": 592.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 377,
+   "image_id": 34,
+   "category_id": 8,
+   "bbox": [
+    178.0,
+    232.0,
+    18.0,
+    36.0
+   ],
+   "area": 648.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 378,
+   "image_id": 35,
+   "category_id": 5,
+   "bbox": [
+    296.5,
+    265.5,
+    88.0,
+    71.0
+   ],
+   "area": 6248.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 379,
+   "image_id": 35,
+   "category_id": 7,
+   "bbox": [
+    749.5,
+    212.5,
+    90.5,
+    197.0
+   ],
+   "area": 17828.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 380,
+   "image_id": 35,
+   "category_id": 1,
+   "bbox": [
+    545.0,
+    251.0,
+    113.5,
+    115.7
+   ],
+   "area": 13131.95,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 381,
+   "image_id": 35,
+   "category_id": 8,
+   "bbox": [
+    571.0,
+    224.0,
+    18.0,
+    27.0
+   ],
+   "area": 486.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 382,
+   "image_id": 35,
+   "category_id": 1,
+   "bbox": [
+    838.5,
+    243.0,
+    108.5,
+    65.0
+   ],
+   "area": 7052.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 383,
+   "image_id": 35,
+   "category_id": 8,
+   "bbox": [
+    331.0,
+    231.35,
+    43.5,
+    69.15
+   ],
+   "area": 3008.03,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 384,
+   "image_id": 35,
+   "category_id": 7,
+   "bbox": [
+    383.0,
+    212.5,
+    160.5,
+    201.0
+   ],
+   "area": 32260.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 385,
+   "image_id": 35,
+   "category_id": 8,
+   "bbox": [
+    645.0,
+    210.0,
+    131.0,
+    238.0
+   ],
+   "area": 31178.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 386,
+   "image_id": 35,
+   "category_id": 5,
+   "bbox": [
+    650.5,
+    310.5,
+    110.0,
+    189.5
+   ],
+   "area": 20845.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 387,
+   "image_id": 36,
+   "category_id": 1,
+   "bbox": [
+    22.0,
+    150.0,
+    65.0,
+    42.0
+   ],
+   "area": 2730.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 388,
+   "image_id": 36,
+   "category_id": 2,
+   "bbox": [
+    77.0,
+    28.0,
+    808.5,
+    662.5
+   ],
+   "area": 535631.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 389,
+   "image_id": 36,
+   "category_id": 8,
+   "bbox": [
+    722.0,
+    150.0,
+    23.0,
+    50.0
+   ],
+   "area": 1150.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 390,
+   "image_id": 37,
+   "category_id": 4,
+   "bbox": [
+    715.0,
+    232.0,
+    49.5,
+    114.5
+   ],
+   "area": 5667.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 391,
+   "image_id": 37,
+   "category_id": 8,
+   "bbox": [
+    28.5,
+    296.5,
+    46.0,
+    109.5
+   ],
+   "area": 5037.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 392,
+   "image_id": 37,
+   "category_id": 2,
+   "bbox": [
+    221.0,
+    125.0,
+    503.5,
+    369.5
+   ],
+   "area": 186043.25,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 393,
+   "image_id": 37,
+   "category_id": 4,
+   "bbox": [
+    0.0,
+    217.5,
+    235.5,
+    174.0
+   ],
+   "area": 40977.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 394,
+   "image_id": 37,
+   "category_id": 4,
+   "bbox": [
+    240.0,
+    268.0,
+    122.0,
+    56.0
+   ],
+   "area": 6832.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "3",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 395,
+   "image_id": 39,
+   "category_id": 5,
+   "bbox": [
+    20.5,
+    417.0,
+    36.0,
+    80.0
+   ],
+   "area": 2880.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 396,
+   "image_id": 39,
+   "category_id": 5,
+   "bbox": [
+    67.5,
+    410.5,
+    99.8,
+    123.5
+   ],
+   "area": 12325.3,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 397,
+   "image_id": 39,
+   "category_id": 1,
+   "bbox": [
+    789.0,
+    409.0,
+    42.0,
+    31.5
+   ],
+   "area": 1323.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 398,
+   "image_id": 39,
+   "category_id": 8,
+   "bbox": [
+    865.0,
+    403.5,
+    25.0,
+    82.5
+   ],
+   "area": 2062.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 399,
+   "image_id": 39,
+   "category_id": 8,
+   "bbox": [
+    839.0,
+    407.5,
+    26.0,
+    86.0
+   ],
+   "area": 2236.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 400,
+   "image_id": 39,
+   "category_id": 5,
+   "bbox": [
+    743.5,
+    442.0,
+    41.0,
+    61.0
+   ],
+   "area": 2501.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 401,
+   "image_id": 39,
+   "category_id": 8,
+   "bbox": [
+    737.0,
+    405.0,
+    51.0,
+    92.0
+   ],
+   "area": 4692.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 402,
+   "image_id": 39,
+   "category_id": 6,
+   "bbox": [
+    700.0,
+    439.75,
+    25.0,
+    56.75
+   ],
+   "area": 1418.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 403,
+   "image_id": 39,
+   "category_id": 8,
+   "bbox": [
+    698.5,
+    411.0,
+    27.5,
+    62.5
+   ],
+   "area": 1718.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 404,
+   "image_id": 39,
+   "category_id": 5,
+   "bbox": [
+    622.5,
+    436.5,
+    37.5,
+    60.5
+   ],
+   "area": 2268.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 405,
+   "image_id": 39,
+   "category_id": 8,
+   "bbox": [
+    626.5,
+    411.0,
+    31.5,
+    65.0
+   ],
+   "area": 2047.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 406,
+   "image_id": 39,
+   "category_id": 8,
+   "bbox": [
+    584.0,
+    416.5,
+    25.0,
+    73.5
+   ],
+   "area": 1837.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 407,
+   "image_id": 39,
+   "category_id": 8,
+   "bbox": [
+    566.0,
+    416.0,
+    20.5,
+    74.0
+   ],
+   "area": 1517.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 408,
+   "image_id": 39,
+   "category_id": 8,
+   "bbox": [
+    546.0,
+    412.0,
+    24.0,
+    77.0
+   ],
+   "area": 1848.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 409,
+   "image_id": 39,
+   "category_id": 5,
+   "bbox": [
+    940.0,
+    465.0,
+    20.0,
+    64.0
+   ],
+   "area": 1280.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 410,
+   "image_id": 40,
+   "category_id": 4,
+   "bbox": [
+    99.0,
+    5.5,
+    370.0,
+    87.5
+   ],
+   "area": 32375.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 411,
+   "image_id": 40,
+   "category_id": 7,
+   "bbox": [
+    312.5,
+    72.5,
+    525.0,
+    337.5
+   ],
+   "area": 177187.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "2",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 412,
+   "image_id": 40,
+   "category_id": 1,
+   "bbox": [
+    19.5,
+    148.0,
+    940.5,
+    492.0
+   ],
+   "area": 462726.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 413,
+   "image_id": 40,
+   "category_id": 8,
+   "bbox": [
+    504.5,
+    103.5,
+    317.0,
+    536.5
+   ],
+   "area": 170070.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "yes",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 414,
+   "image_id": 40,
+   "category_id": 4,
+   "bbox": [
+    0.0,
+    118.0,
+    74.0,
+    91.0
+   ],
+   "area": 6734.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "0",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 415,
+   "image_id": 40,
+   "category_id": 7,
+   "bbox": [
+    83.5,
+    104.0,
+    107.5,
+    130.5
+   ],
+   "area": 14028.75,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 416,
+   "image_id": 40,
+   "category_id": 1,
+   "bbox": [
+    179.5,
+    77.5,
+    220.5,
+    175.0
+   ],
+   "area": 38587.5,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "1",
+    "truncated": "no",
+    "on_vehicle": "no",
+    "can_review": false,
+    "needs_calibration": false
+   }
+  },
+  {
+   "id": 417,
+   "image_id": 40,
+   "category_id": 5,
+   "bbox": [
+    78.0,
+    477.0,
+    366.0,
+    163.0
+   ],
+   "area": 59658.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "3",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  },
+  {
+   "id": 418,
+   "image_id": 40,
+   "category_id": 4,
+   "bbox": [
+    468.0,
+    0.0,
+    127.0,
+    78.0
+   ],
+   "area": 9906.0,
+   "iscrowd": 0,
+   "attributes": {
+    "occluded_level": "3",
+    "truncated": "yes",
+    "on_vehicle": "no",
+    "can_review": true,
+    "needs_calibration": true
+   }
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+  "taxonomy_version": "v1.0",
+  "thresholds": {
+    "iaa_iou": 0.85,
+    "iaa_class": 0.95,
+    "match_iou": 0.5
+  },
+  "n_annotators": 2,
+  "n_images_compared": 40,
+  "images_with_lt2_annotators": [],
+  "overall": {
+    "n_images": 40,
+    "n_matched_pairs": 306,
+    "n_unmatched_a": 61,
+    "n_unmatched_b": 42,
+    "n_skipped_in_ignore": 37,
+    "mean_iou": 0.8363210613622509,
+    "class_agreement": 0.9967320261437909,
+    "attr_agreement": {
+      "occluded_level": 0.5980392156862745,
+      "truncated": 0.9705882352941176,
+      "on_vehicle": 0.9836601307189542
+    },
+    "n_below_iou_thr": 126,
+    "iou_pass": false,
+    "class_pass": true,
+    "pass": false
+  },
+  "per_pair": {
+    "2A202603227|2A202603230": {
+      "n_images": 40,
+      "n_matched_pairs": 306,
+      "n_unmatched_a": 61,
+      "n_unmatched_b": 42,
+      "n_skipped_in_ignore": 37,
+      "mean_iou": 0.8363210613622509,
+      "class_agreement": 0.9967320261437909,
+      "attr_agreement": {
+        "occluded_level": 0.5980392156862745,
+        "truncated": 0.9705882352941176,
+        "on_vehicle": 0.9836601307189542
+      },
+      "n_below_iou_thr": 126,
+      "iou_pass": false,
+      "class_pass": true,
+      "pass": false
+    }
+  },
+  "n_issues": 441,
+  "issues_by_type": {
+    "iou_thap": 126,
+    "sai_thuoc_tinh": 131,
+    "bo_sot_thua": 103,
+    "co_can_review": 80,
+    "sai_lop": 1
+  },
+  "n_flagged_images": 35
+}
