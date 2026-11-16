@@ -2,7 +2,7 @@
 
 - Tên nhóm: Just2Men
 - Repo bài nộp (URL): https://github.com/plastma65/K5-L23-DAY07-Just2Men-Guideline-Taxonomy-QC
-- Commit chốt bài (hash):
+- Commit chốt bài (hash): ec4036b37896c63b816b56155d4639ddc68ff02f
 - Số thành viên: 2 → số người gán mỗi ảnh (K): 2
 
 | STT | MSHV        | Họ và tên     | Lớp (L2 / L3 / khác) | Tài khoản GitHub |
