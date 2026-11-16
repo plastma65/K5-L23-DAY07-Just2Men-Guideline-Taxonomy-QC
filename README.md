@@ -1,4 +1,4 @@
-# Day 07 Lab — Guideline, Taxonomy & QC
+# Day 07 Lab — Nhóm Just2Men: 2A202603230 - Trần Tuấn Anh, 2A202603227 - Doãn Tùng Lâm
 
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố châu Á · gán box bằng CVAT**
 

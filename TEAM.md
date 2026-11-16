@@ -1,15 +1,14 @@
 # Thông tin nhóm
 
-- Tên nhóm:
-- Repo bài nộp (URL):
+- Tên nhóm: Just2Men
+- Repo bài nộp (URL): https://github.com/plastma65/K5-L23-DAY07-Just2Men-Guideline-Taxonomy-QC
 - Commit chốt bài (hash):
-- Số thành viên: …  → số người gán mỗi ảnh (K): …
+- Số thành viên: 2  → số người gán mỗi ảnh (K): 2
 
 | STT | MSHV | Họ và tên | Lớp (L2 / L3 / khác) | Tài khoản GitHub |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+| 1 | 2A202603230 | Trần Tuấn Anh | | plastma65 |
+| 2 | 2A202603227 | Doãn Tùng Lâm | | |
 
 Danh sách trên phải khớp dòng tiêu đề của `README.md` (đã đổi theo [SUBMISSION.md](SUBMISSION.md)) và `--members` đã dùng ở `scripts/split_assign.py`.
 
