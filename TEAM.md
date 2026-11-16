@@ -7,8 +7,8 @@
 
 | STT | MSHV        | Họ và tên     | Lớp (L2 / L3 / khác) | Tài khoản GitHub |
 | --- | ----------- | ------------- | -------------------- | ---------------- |
-| 1   | 2A202603230 | Trần Tuấn Anh |                      | plastma65        |
-| 2   | 2A202603227 | Doãn Tùng Lâm |                      | doantunglam      |
+| 1   | 2A202603230 | Trần Tuấn Anh |          L2          | plastma65        |
+| 2   | 2A202603227 | Doãn Tùng Lâm |          L2          | doantunglam      |
 
 Danh sách trên phải khớp dòng tiêu đề của `README.md` (đã đổi theo [SUBMISSION.md](SUBMISSION.md)) và `--members` đã dùng ở `scripts/split_assign.py`.
 
