@@ -26,6 +26,16 @@
         ]
       },
       {
+        "name": "on_vehicle",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
@@ -52,6 +62,16 @@
       },
       {
         "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "on_vehicle",
         "mutable": false,
         "input_type": "select",
         "default_value": "no",
@@ -96,6 +116,16 @@
         ]
       },
       {
+        "name": "on_vehicle",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
@@ -105,7 +135,7 @@
     ]
   },
   {
-    "name": "motorcycle",
+    "name": "bus",
     "color": "#f58231",
     "attributes": [
       {
@@ -131,6 +161,16 @@
         ]
       },
       {
+        "name": "on_vehicle",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
@@ -140,7 +180,7 @@
     ]
   },
   {
-    "name": "person",
+    "name": "motorcycle",
     "color": "#911eb4",
     "attributes": [
       {
@@ -157,6 +197,151 @@
       },
       {
         "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "on_vehicle",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "can_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": []
+      }
+    ]
+  },
+  {
+    "name": "bicycle",
+    "color": "#46c8c8",
+    "attributes": [
+      {
+        "name": "occluded_level",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "0",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "on_vehicle",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "can_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": []
+      }
+    ]
+  },
+  {
+    "name": "three_wheeler",
+    "color": "#f032e6",
+    "attributes": [
+      {
+        "name": "occluded_level",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "0",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "on_vehicle",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "can_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": []
+      }
+    ]
+  },
+  {
+    "name": "person",
+    "color": "#9a6324",
+    "attributes": [
+      {
+        "name": "occluded_level",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "0",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "on_vehicle",
         "mutable": false,
         "input_type": "select",
         "default_value": "no",
